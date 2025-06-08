@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis Web Application
+# 🧠 Sentiment Analysis Project
 
 This project is a **Sentiment Analysis** system built using **Natural Language Processing (NLP)** and **Machine Learning** techniques. The application analyzes customer reviews and classifies them as **Positive** or **Negative**. It includes a simple web interface where users can enter their product feedback, and the system dynamically keeps track of the number of positive and negative reviews.
 
